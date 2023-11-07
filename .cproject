@@ -99,7 +99,8 @@
 								<option id="gnu.c.compiler.option.preprocessor.preprocess.1818892288" name="Preprocess only (-E)" superClass="gnu.c.compiler.option.preprocessor.preprocess" useByScannerDiscovery="false"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="gnu.c.compiler.option.preprocessor.def.symbols.734668239" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="CPU_LPC54S018J4MET180=1"/>
-									<listOptionValue builtIn="false" value="MG_ARCH=MG_ARCH_FREERTOS_LWIP"/>
+									<listOptionValue builtIn="false" value="MG_ARCH=MG_ARCH_FREERTOS"/>
+									<listOptionValue builtIn="false" value="MG_ENABLE_LWIP=1"/>
 									<listOptionValue builtIn="false" value="CPU_LPC54S018J4MET180_cm4"/>
 									<listOptionValue builtIn="false" value="XIP_IMAGE"/>
 									<listOptionValue builtIn="false" value="CPU_LPC54S018J4M"/>
